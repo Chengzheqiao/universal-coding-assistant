@@ -1,0 +1,22 @@
+{
+  "name": "universal-coding-assistant",
+  "description": "通用编程助手（基于 Qoder CLI）- 提供完整的 AI 编程支持，包括交互式开发、自动化工作流、并行任务处理、代码审查、测试生成等全栈开发功能",
+  "version": "1.0.0",
+  "author": "Chengzheqiao",
+  "license": "MIT",
+  "scripts": {
+    "tui-mode": "scripts/tui-mode.sh",
+    "print-mode": "scripts/print-mode.sh",
+    "worktree-tasks": "scripts/worktree-tasks.sh",
+    "subagent-management": "scripts/subagent-management.sh",
+    "mcp-management": "scripts/mcp-management.sh",
+    "permission-config": "scripts/permission-config.sh",
+    "memory-management": "scripts/memory-management.sh",
+    "command-management": "scripts/command-management.sh",
+    "hooks-config": "scripts/hooks-config.sh"
+  },
+  "assets": {
+    "reference": "REFERENCE.md",
+    "readme": "README.md"
+  }
+}
