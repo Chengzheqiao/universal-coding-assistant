@@ -1,3 +1,8 @@
+---
+name: universal-coding-assistant
+description: 通用编程助手（基于 Qoder CLI）- 提供完整的 AI 编程支持，包括交互式开发、自动化工作流、并行任务处理、代码审查、测试生成等全栈开发功能。Use when the user needs to write, debug, refactor code, run tests, manage workflows, or perform code reviews.
+---
+
 # Universal Coding Assistant (Qoder CLI)
 
 This skill integrates **Qoder CLI** as your primary AI-powered programming assistant, providing a unified interface for coding, debugging, testing, and project management.
